@@ -1,1 +1,1 @@
-# Classification-Confused-Student-EEG-Brainwave-data-using-logistic-regression-algorithm
+# Confused-Student-EEG-Brainwave-data-using-logistic-regression-algorithm
